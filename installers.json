@@ -39,12 +39,6 @@
       "label": "PJ",
       "icon": "📦",
       "note": ""
-    },
-    {
-      "id": "a",
-      "label": "a",
-      "icon": "📦",
-      "note": ""
     }
   ],
   "installers": {
@@ -200,6 +194,15 @@
         "version": "Full",
         "size": "RAR",
         "url": "https://mega.nz/file/OM8BBJgb#qz2JHAHkKN_YLvq6IucjxnYWrWcthondSFAbgqz1SLo"
+      },
+      {
+        "name": "ATun",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/aIExURyY#WH7pLNKwBVlR34iC7-K7-212ZdHhPQs4M6m4-LorOMA",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       }
     ],
     "menu-1781946815472p": [
@@ -211,17 +214,6 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0"
-      }
-    ],
-    "a": [
-      {
-        "name": "b",
-        "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/aIExURyY#WH7pLNKwBVlR34iC7-K7-212ZdHhPQs4M6m4-LorOMA",
-        "enabled": true,
-        "featured": false,
-        "note": ""
       }
     ]
   },
