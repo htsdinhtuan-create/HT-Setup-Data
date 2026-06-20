@@ -8,31 +8,54 @@
     "image": "",
     "link": ""
   },
+  "appUpdate": {
+    "enabled": false,
+    "version": "",
+    "title": "",
+    "text": "",
+    "url": ""
+  },
+  "auth": {
+    "enabled": false,
+    "username": "",
+    "password": ""
+  },
+  "updatedAt": "2026-06-20T09:59:51.526Z",
   "categories": [
     {
       "id": "cubase",
       "label": "Cubase",
-      "icon": "🎹"
+      "icon": "🎹",
+      "note": "",
+      "enabled": true
     },
     {
       "id": "studioone",
       "label": "Studio One",
-      "icon": "🎛️"
+      "icon": "🎛️",
+      "note": "",
+      "enabled": true
     },
     {
       "id": "livestream",
       "label": "LiveStream",
-      "icon": "📡"
+      "icon": "📡",
+      "note": "",
+      "enabled": true
     },
     {
       "id": "vst",
       "label": "Các VST",
-      "icon": "🎚️"
+      "icon": "🎚️",
+      "note": "",
+      "enabled": true
     },
     {
       "id": "tools",
       "label": "Tiện ích",
-      "icon": "🧰"
+      "icon": "🧰",
+      "note": "",
+      "enabled": true
     }
   ],
   "installers": {
@@ -41,19 +64,28 @@
         "name": "Cubase Pro 10",
         "version": "Pro 10",
         "size": "RAR",
-        "url": "https://mega.nz/file/SIc3jL5J#vdyuQbQk67BnX068D8Pn5Vl8qwq845uyPR5JuAP3GRc"
+        "url": "https://mega.nz/file/SIc3jL5J#vdyuQbQk67BnX068D8Pn5Vl8qwq845uyPR5JuAP3GRc",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Cubase Pro 14",
         "version": "Pro 14",
         "size": "RAR",
-        "url": "https://mega.nz/file/PM0kzIDK#lmlpwF83OXKHRVTG3wTwMMoMOY6lp-m4I87qgJ1OcUM"
+        "url": "https://mega.nz/file/PM0kzIDK#lmlpwF83OXKHRVTG3wTwMMoMOY6lp-m4I87qgJ1OcUM",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Cubase Pro 15",
         "version": "Pro 15",
         "size": "RAR",
-        "url": "https://mega.nz/file/3NcgTBrA#QfM80jEEMseOuG4xF_GEQPz2y6Wn9XWosdFDr91ZA_4"
+        "url": "https://mega.nz/file/3NcgTBrA#QfM80jEEMseOuG4xF_GEQPz2y6Wn9XWosdFDr91ZA_4",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       }
     ],
     "studioone": [
@@ -61,7 +93,10 @@
         "name": "Studio One",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/KcUXXBST#uy8KigrA3T2LAnsf0Qrw44vCdvAUKYQSgKAlPVPYq3k"
+        "url": "https://mega.nz/file/KcUXXBST#uy8KigrA3T2LAnsf0Qrw44vCdvAUKYQSgKAlPVPYq3k",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       }
     ],
     "livestream": [
@@ -69,13 +104,19 @@
         "name": "TikTok Studio",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/LZdXlICQ#A7JWZCGoSs1yqKDHQU1zgk9JENEECSrlU3XE4h1yKJE"
+        "url": "https://mega.nz/file/LZdXlICQ#A7JWZCGoSs1yqKDHQU1zgk9JENEECSrlU3XE4h1yKJE",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "StreamingTool",
         "version": "11.2.4 x64",
         "size": "RAR",
-        "url": "https://mega.nz/file/SYsFkBpT#ADNLS7Jww4-1naUyOygKz9W0t6Rom6bBAp9zoOlhGys"
+        "url": "https://mega.nz/file/SYsFkBpT#ADNLS7Jww4-1naUyOygKz9W0t6Rom6bBAp9zoOlhGys",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       }
     ],
     "vst": [
@@ -83,116 +124,175 @@
         "name": "Antares Auto-Key 2 + Auto-Tune Pro X",
         "version": "v10.3.1",
         "size": "RAR",
-        "url": "https://mega.nz/file/jN0VGYAB#IJsu0isLQmKacqfyep53zfNXQiRyATX8pmbkgGyvGbM"
+        "url": "https://mega.nz/file/jN0VGYAB#IJsu0isLQmKacqfyep53zfNXQiRyATX8pmbkgGyvGbM",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Antares Auto-Tune Pro X",
         "version": "v10.3.1",
         "size": "RAR",
-        "url": "https://mega.nz/file/7dcVCSBQ#BVhBCilRFcaWmDJDPmOfKCKxMbpyqEvRRDqdR63qdWs"
+        "url": "https://mega.nz/file/7dcVCSBQ#BVhBCilRFcaWmDJDPmOfKCKxMbpyqEvRRDqdR63qdWs",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Arts Acoustic Reverb",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/GUVWSRpZ#9I-_hursOjWfZc8Yt4FSY6D-wP04SxzQYrq6yD8raKU"
+        "url": "https://mega.nz/file/GUVWSRpZ#9I-_hursOjWfZc8Yt4FSY6D-wP04SxzQYrq6yD8raKU",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "AutoTune Pro",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/DUdTjJiK#zpmkb7DtHCl5Bd3k9do6eejoC4lIfM9X5VGE0I8zq7o"
+        "url": "https://mega.nz/file/DUdTjJiK#zpmkb7DtHCl5Bd3k9do6eejoC4lIfM9X5VGE0I8zq7o",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Cakewalk Sonitus FX Plugin Suite",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/mB9m3YKK#VpLBsGTNWNR6AaFJRcoGh3cQW40o6fet9b0fUnzaYr4"
+        "url": "https://mega.nz/file/mB9m3YKK#VpLBsGTNWNR6AaFJRcoGh3cQW40o6fet9b0fUnzaYr4",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "G.Sonique",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/ycEFGAJB#Is7A58kTmouA64Kpfktn2RPAv62JiwWmG2yWYXwhudc"
+        "url": "https://mega.nz/file/ycEFGAJB#Is7A58kTmouA64Kpfktn2RPAv62JiwWmG2yWYXwhudc",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Lexicon PCM Native Reverb Bundle",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/zVtUyBgY#ZQSItzW6fzgWI0fTkityrip0zIZ9PCmk_DpCXp7syqo"
+        "url": "https://mega.nz/file/zVtUyBgY#ZQSItzW6fzgWI0fTkityrip0zIZ9PCmk_DpCXp7syqo",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Liquid Delays 2",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/2dMl1aCD#o4tnen5oB-M-ZDmSPsC3ekkxVVVe9lmkIB5cYPf8P1M"
+        "url": "https://mega.nz/file/2dMl1aCD#o4tnen5oB-M-ZDmSPsC3ekkxVVVe9lmkIB5cYPf8P1M",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Nomad Factory Integral Studio Pack 3.0",
         "version": "R3",
         "size": "RAR",
-        "url": "https://mega.nz/file/HcMw0SBJ#fwLUeKE5SHAwAV0ral0YznQcHkWhUiLPU5-VDDiyIi8"
+        "url": "https://mega.nz/file/HcMw0SBJ#fwLUeKE5SHAwAV0ral0YznQcHkWhUiLPU5-VDDiyIi8",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Plugin Alliance Brainworx Maag Bundle",
         "version": "2024.9",
         "size": "RAR",
-        "url": "https://mega.nz/file/KdcmXY6A#0rbkJGpd2xVA-vI68rSLVyJ3hNWl8ThstnFcJKTmiLw"
+        "url": "https://mega.nz/file/KdcmXY6A#0rbkJGpd2xVA-vI68rSLVyJ3hNWl8ThstnFcJKTmiLw",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Slate Digital Fresh Air",
         "version": "v1.0.8",
         "size": "RAR",
-        "url": "https://mega.nz/file/eRlEAA5Z#H2SMNbp4eA0LSDzcEEUlRSOWJyxfs54VKjGIrXt0lhA"
+        "url": "https://mega.nz/file/eRlEAA5Z#H2SMNbp4eA0LSDzcEEUlRSOWJyxfs54VKjGIrXt0lhA",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Waves 15",
         "version": "15",
         "size": "RAR",
-        "url": "https://mega.nz/file/PQVixSBD#_AkkCoFcysZVoQN1TjB-NrdeVWsNftfpzP69FChljbE"
+        "url": "https://mega.nz/file/PQVixSBD#_AkkCoFcysZVoQN1TjB-NrdeVWsNftfpzP69FChljbE",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       }
     ],
     "tools": [
       {
-        "enabled": true,
-        "featured": false,
-        "note": "",
         "name": "Project",
         "version": "Full",
         "size": "CPR",
-        "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0"
+        "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "ASIO4ALL",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/3I9klYbS#VzYoV4Qu9XVCOzra7kkpPwHj2mZod_SRwWyW0zN4mq8"
+        "url": "https://mega.nz/file/3I9klYbS#VzYoV4Qu9XVCOzra7kkpPwHj2mZod_SRwWyW0zN4mq8",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "ASIO Link Pro",
         "version": "Pro",
         "size": "RAR",
-        "url": "https://mega.nz/file/SAsmCbzS#Cc6ojwlL72qzaPiLrgNsvAoi_5cdp7yFzTBvxcrSO6U"
+        "url": "https://mega.nz/file/SAsmCbzS#Cc6ojwlL72qzaPiLrgNsvAoi_5cdp7yFzTBvxcrSO6U",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Fix TikTok Studio",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/LZdXlICQ#A7JWZCGoSs1yqKDHQU1zgk9JENEECSrlU3XE4h1yKJE"
+        "url": "https://mega.nz/file/LZdXlICQ#A7JWZCGoSs1yqKDHQU1zgk9JENEECSrlU3XE4h1yKJE",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "Fix Douyin / Loki",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/LIVgAZpT#lhDMAqYh876QjZG-6xvPLZsBac7b4pIM3LXo5raDizA"
+        "url": "https://mega.nz/file/LIVgAZpT#lhDMAqYh876QjZG-6xvPLZsBac7b4pIM3LXo5raDizA",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       },
       {
         "name": "LUT",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/OM8BBJgb#qz2JHAHkKN_YLvq6IucjxnYWrWcthondSFAbgqz1SLo"
+        "url": "https://mega.nz/file/OM8BBJgb#qz2JHAHkKN_YLvq6IucjxnYWrWcthondSFAbgqz1SLo",
+        "enabled": true,
+        "featured": false,
+        "note": ""
+      },
+      {
+        "name": "a",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/aIExURyY#WH7pLNKwBVlR34iC7-K7-212ZdHhPQs4M6m4-LorOMA",
+        "enabled": true,
+        "featured": false,
+        "note": ""
       }
     ]
-  },
-  "updatedAt": "2026-06-20T00:00:00.000Z"
+  }
 }
