@@ -33,12 +33,6 @@
       "id": "tools",
       "label": "Tiện ích",
       "icon": "🧰"
-    },
-    {
-      "id": "menu-1781946815472p",
-      "label": "PJ",
-      "icon": "📦",
-      "note": ""
     }
   ],
   "installers": {
@@ -160,10 +154,13 @@
     ],
     "tools": [
       {
-        "name": "HTA AutoTone",
+        "enabled": true,
+        "featured": false,
+        "note": "",
+        "name": "Project",
         "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/jV0kxDSJ#x38Uj7SAwG4dJVrXOdALcwDdV8PABiaEwlPVwVxLwR0"
+        "size": "CPR",
+        "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0"
       },
       {
         "name": "ASIO4ALL",
@@ -194,26 +191,6 @@
         "version": "Full",
         "size": "RAR",
         "url": "https://mega.nz/file/OM8BBJgb#qz2JHAHkKN_YLvq6IucjxnYWrWcthondSFAbgqz1SLo"
-      },
-      {
-        "name": "ATun",
-        "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/aIExURyY#WH7pLNKwBVlR34iC7-K7-212ZdHhPQs4M6m4-LorOMA",
-        "enabled": true,
-        "featured": false,
-        "note": ""
-      }
-    ],
-    "menu-1781946815472p": [
-      {
-        "enabled": false,
-        "featured": false,
-        "note": "",
-        "name": "Project",
-        "version": "Full",
-        "size": "CPR",
-        "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0"
       }
     ]
   },
