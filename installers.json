@@ -1,6 +1,13 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-20T00:00:00.000Z",
+  "message": "",
+  "banner": {
+    "enabled": false,
+    "title": "",
+    "text": "",
+    "image": "",
+    "link": ""
+  },
   "categories": [
     {
       "id": "cubase",
@@ -26,6 +33,12 @@
       "id": "tools",
       "label": "Tiện ích",
       "icon": "🧰"
+    },
+    {
+      "id": "menu-1781946815472p",
+      "label": "PJ",
+      "icon": "📦",
+      "note": ""
     }
   ],
   "installers": {
@@ -182,6 +195,18 @@
         "size": "RAR",
         "url": "https://mega.nz/file/OM8BBJgb#qz2JHAHkKN_YLvq6IucjxnYWrWcthondSFAbgqz1SLo"
       }
+    ],
+    "menu-1781946815472p": [
+      {
+        "name": "PJ",
+        "version": "Full",
+        "size": "CPR",
+        "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
+        "enabled": true,
+        "featured": false,
+        "note": ""
+      }
     ]
-  }
+  },
+  "updatedAt": "2026-06-20T00:00:00.000Z"
 }
