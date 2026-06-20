@@ -1,0 +1,187 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-06-20T00:00:00.000Z",
+  "categories": [
+    {
+      "id": "cubase",
+      "label": "Cubase",
+      "icon": "🎹"
+    },
+    {
+      "id": "studioone",
+      "label": "Studio One",
+      "icon": "🎛️"
+    },
+    {
+      "id": "livestream",
+      "label": "LiveStream",
+      "icon": "📡"
+    },
+    {
+      "id": "vst",
+      "label": "Các VST",
+      "icon": "🎚️"
+    },
+    {
+      "id": "tools",
+      "label": "Tiện ích",
+      "icon": "🧰"
+    }
+  ],
+  "installers": {
+    "cubase": [
+      {
+        "name": "Cubase Pro 10",
+        "version": "Pro 10",
+        "size": "RAR",
+        "url": "https://mega.nz/file/SIc3jL5J#vdyuQbQk67BnX068D8Pn5Vl8qwq845uyPR5JuAP3GRc"
+      },
+      {
+        "name": "Cubase Pro 14",
+        "version": "Pro 14",
+        "size": "RAR",
+        "url": "https://mega.nz/file/PM0kzIDK#lmlpwF83OXKHRVTG3wTwMMoMOY6lp-m4I87qgJ1OcUM"
+      },
+      {
+        "name": "Cubase Pro 15",
+        "version": "Pro 15",
+        "size": "RAR",
+        "url": "https://mega.nz/file/3NcgTBrA#QfM80jEEMseOuG4xF_GEQPz2y6Wn9XWosdFDr91ZA_4"
+      }
+    ],
+    "studioone": [
+      {
+        "name": "Studio One",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/KcUXXBST#uy8KigrA3T2LAnsf0Qrw44vCdvAUKYQSgKAlPVPYq3k"
+      }
+    ],
+    "livestream": [
+      {
+        "name": "TikTok Studio",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/LZdXlICQ#A7JWZCGoSs1yqKDHQU1zgk9JENEECSrlU3XE4h1yKJE"
+      },
+      {
+        "name": "StreamingTool",
+        "version": "11.2.4 x64",
+        "size": "RAR",
+        "url": "https://mega.nz/file/SYsFkBpT#ADNLS7Jww4-1naUyOygKz9W0t6Rom6bBAp9zoOlhGys"
+      }
+    ],
+    "vst": [
+      {
+        "name": "Antares Auto-Key 2 + Auto-Tune Pro X",
+        "version": "v10.3.1",
+        "size": "RAR",
+        "url": "https://mega.nz/file/jN0VGYAB#IJsu0isLQmKacqfyep53zfNXQiRyATX8pmbkgGyvGbM"
+      },
+      {
+        "name": "Antares Auto-Tune Pro X",
+        "version": "v10.3.1",
+        "size": "RAR",
+        "url": "https://mega.nz/file/7dcVCSBQ#BVhBCilRFcaWmDJDPmOfKCKxMbpyqEvRRDqdR63qdWs"
+      },
+      {
+        "name": "Arts Acoustic Reverb",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/GUVWSRpZ#9I-_hursOjWfZc8Yt4FSY6D-wP04SxzQYrq6yD8raKU"
+      },
+      {
+        "name": "AutoTune Pro",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/DUdTjJiK#zpmkb7DtHCl5Bd3k9do6eejoC4lIfM9X5VGE0I8zq7o"
+      },
+      {
+        "name": "Cakewalk Sonitus FX Plugin Suite",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/mB9m3YKK#VpLBsGTNWNR6AaFJRcoGh3cQW40o6fet9b0fUnzaYr4"
+      },
+      {
+        "name": "G.Sonique",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/ycEFGAJB#Is7A58kTmouA64Kpfktn2RPAv62JiwWmG2yWYXwhudc"
+      },
+      {
+        "name": "Lexicon PCM Native Reverb Bundle",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/zVtUyBgY#ZQSItzW6fzgWI0fTkityrip0zIZ9PCmk_DpCXp7syqo"
+      },
+      {
+        "name": "Liquid Delays 2",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/2dMl1aCD#o4tnen5oB-M-ZDmSPsC3ekkxVVVe9lmkIB5cYPf8P1M"
+      },
+      {
+        "name": "Nomad Factory Integral Studio Pack 3.0",
+        "version": "R3",
+        "size": "RAR",
+        "url": "https://mega.nz/file/HcMw0SBJ#fwLUeKE5SHAwAV0ral0YznQcHkWhUiLPU5-VDDiyIi8"
+      },
+      {
+        "name": "Plugin Alliance Brainworx Maag Bundle",
+        "version": "2024.9",
+        "size": "RAR",
+        "url": "https://mega.nz/file/KdcmXY6A#0rbkJGpd2xVA-vI68rSLVyJ3hNWl8ThstnFcJKTmiLw"
+      },
+      {
+        "name": "Slate Digital Fresh Air",
+        "version": "v1.0.8",
+        "size": "RAR",
+        "url": "https://mega.nz/file/eRlEAA5Z#H2SMNbp4eA0LSDzcEEUlRSOWJyxfs54VKjGIrXt0lhA"
+      },
+      {
+        "name": "Waves 15",
+        "version": "15",
+        "size": "RAR",
+        "url": "https://mega.nz/file/PQVixSBD#_AkkCoFcysZVoQN1TjB-NrdeVWsNftfpzP69FChljbE"
+      }
+    ],
+    "tools": [
+      {
+        "name": "HTA AutoTone",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/jV0kxDSJ#x38Uj7SAwG4dJVrXOdALcwDdV8PABiaEwlPVwVxLwR0"
+      },
+      {
+        "name": "ASIO4ALL",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/3I9klYbS#VzYoV4Qu9XVCOzra7kkpPwHj2mZod_SRwWyW0zN4mq8"
+      },
+      {
+        "name": "ASIO Link Pro",
+        "version": "Pro",
+        "size": "RAR",
+        "url": "https://mega.nz/file/SAsmCbzS#Cc6ojwlL72qzaPiLrgNsvAoi_5cdp7yFzTBvxcrSO6U"
+      },
+      {
+        "name": "Fix TikTok Studio",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/LZdXlICQ#A7JWZCGoSs1yqKDHQU1zgk9JENEECSrlU3XE4h1yKJE"
+      },
+      {
+        "name": "Fix Douyin / Loki",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/LIVgAZpT#lhDMAqYh876QjZG-6xvPLZsBac7b4pIM3LXo5raDizA"
+      },
+      {
+        "name": "LUT",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/OM8BBJgb#qz2JHAHkKN_YLvq6IucjxnYWrWcthondSFAbgqz1SLo"
+      }
+    ]
+  }
+}
