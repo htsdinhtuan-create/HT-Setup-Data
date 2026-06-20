@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-20T09:59:51.526Z",
+  "updatedAt": "2026-06-20T10:01:06.631Z",
   "categories": [
     {
       "id": "cubase",
@@ -280,15 +280,6 @@
         "version": "Full",
         "size": "RAR",
         "url": "https://mega.nz/file/OM8BBJgb#qz2JHAHkKN_YLvq6IucjxnYWrWcthondSFAbgqz1SLo",
-        "enabled": true,
-        "featured": false,
-        "note": ""
-      },
-      {
-        "name": "a",
-        "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/aIExURyY#WH7pLNKwBVlR34iC7-K7-212ZdHhPQs4M6m4-LorOMA",
         "enabled": true,
         "featured": false,
         "note": ""
