@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-24T12:33:39.106Z",
+  "updatedAt": "2026-06-24T12:35:26.178Z",
   "categories": [
     {
       "id": "cubase",
@@ -307,11 +307,11 @@
         "version": "Full",
         "size": "RAR",
         "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
-        "enabled": true,
+        "enabled": false,
         "featured": false,
         "note": ""
       }
     ]
   },
-  "revision": "1782304419106-f16055"
+  "revision": "1782304526178-de2328"
 }
