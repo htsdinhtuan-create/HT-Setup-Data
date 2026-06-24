@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-24T09:41:09.749Z",
+  "updatedAt": "2026-06-24T10:16:50.341Z",
   "categories": [
     {
       "id": "cubase",
@@ -244,7 +244,7 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
-        "enabled": false,
+        "enabled": true,
         "featured": false,
         "note": ""
       },
@@ -295,5 +295,5 @@
       }
     ]
   },
-  "revision": "1782294069749-fa8f1e"
+  "revision": "1782296210342-0f7048"
 }
