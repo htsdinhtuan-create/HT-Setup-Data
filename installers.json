@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-24T12:29:30.850Z",
+  "updatedAt": "2026-06-24T12:32:05.594Z",
   "categories": [
     {
       "id": "cubase",
@@ -55,6 +55,13 @@
       "label": "Tiện ích",
       "icon": "🧰",
       "note": "",
+      "enabled": true
+    },
+    {
+      "id": "menu",
+      "label": "Các PM khác",
+      "icon": "🍑",
+      "note": "Cập nhật mới",
       "enabled": true
     }
   ],
@@ -293,7 +300,18 @@
         "featured": false,
         "note": ""
       }
+    ],
+    "menu": [
+      {
+        "name": "OBS",
+        "version": "Full",
+        "size": "RAR",
+        "url": "",
+        "enabled": true,
+        "featured": false,
+        "note": "OBS Update"
+      }
     ]
   },
-  "revision": "1782304170850-79280b"
+  "revision": "1782304325594-076adb"
 }
