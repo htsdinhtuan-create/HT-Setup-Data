@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-20T13:03:10.322Z",
+  "updatedAt": "2026-06-24T09:26:25.205Z",
   "categories": [
     {
       "id": "cubase",
@@ -83,6 +83,15 @@
         "version": "Pro 15",
         "size": "RAR",
         "url": "https://mega.nz/file/3NcgTBrA#QfM80jEEMseOuG4xF_GEQPz2y6Wn9XWosdFDr91ZA_4",
+        "enabled": true,
+        "featured": false,
+        "note": ""
+      },
+      {
+        "name": "Cubase 16",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/mcVBRQYD#WAuhZd6mpFuNPQOO_3lg_PlQ5w1tWftEUwXoX3MYMMw",
         "enabled": true,
         "featured": false,
         "note": ""
@@ -285,5 +294,6 @@
         "note": ""
       }
     ]
-  }
+  },
+  "revision": "1782293185205-d6f13f"
 }
