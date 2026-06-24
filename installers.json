@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-24T10:16:50.341Z",
+  "updatedAt": "2026-06-24T10:17:44.397Z",
   "categories": [
     {
       "id": "cubase",
@@ -295,5 +295,5 @@
       }
     ]
   },
-  "revision": "1782296210342-0f7048"
+  "revision": "1782296264397-08252e"
 }
