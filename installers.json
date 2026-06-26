@@ -3,7 +3,7 @@
   "message": "",
   "banner": {
     "enabled": false,
-    "title": "",
+    "title": "Autotone",
     "text": "",
     "image": "",
     "link": ""
@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-24T14:42:04.949Z",
+  "updatedAt": "2026-06-26T04:59:31.017Z",
   "categories": [
     {
       "id": "cubase",
@@ -58,10 +58,10 @@
       "enabled": true
     },
     {
-      "id": "menu",
-      "label": "Các PM khác",
-      "icon": "🍑",
-      "note": "Cập nhật mới",
+      "id": "menu-v1",
+      "label": "Auto Tone",
+      "icon": "🎙",
+      "note": "Dò Tone Tự Động",
       "enabled": true
     }
   ],
@@ -251,7 +251,7 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
-        "enabled": false,
+        "enabled": true,
         "featured": false,
         "note": ""
       },
@@ -301,17 +301,17 @@
         "note": ""
       }
     ],
-    "menu": [
+    "menu-v1": [
       {
-        "name": "OBS",
+        "name": "HTAutoTone",
         "version": "Full",
         "size": "RAR",
-        "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+        "url": "https://mega.nz/file/DQEXgBxa#oQp_tmsQmj7DBYPLhsfq0eRyfSGZVlwzJBQZeLz0jNo",
         "enabled": true,
         "featured": false,
-        "note": ""
+        "note": "Dò Tone Tư Động"
       }
     ]
   },
-  "revision": "1782312124949-8719dd"
+  "revision": "1782449971021-b1e372"
 }
