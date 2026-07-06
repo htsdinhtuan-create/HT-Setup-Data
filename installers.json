@@ -3,7 +3,7 @@
   "message": "",
   "banner": {
     "enabled": false,
-    "title": "Autotone",
+    "title": "",
     "text": "",
     "image": "",
     "link": ""
@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-06-26T04:59:31.017Z",
+  "updatedAt": "2026-07-06T23:40:24.330Z",
   "categories": [
     {
       "id": "cubase",
@@ -58,10 +58,10 @@
       "enabled": true
     },
     {
-      "id": "menu-v1",
-      "label": "Auto Tone",
-      "icon": "🎙",
-      "note": "Dò Tone Tự Động",
+      "id": "menu",
+      "label": "Các PM khác",
+      "icon": "🍑",
+      "note": "Cập nhật mới",
       "enabled": true
     }
   ],
@@ -251,7 +251,7 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
-        "enabled": true,
+        "enabled": false,
         "featured": false,
         "note": ""
       },
@@ -301,17 +301,26 @@
         "note": ""
       }
     ],
-    "menu-v1": [
+    "menu": [
       {
-        "name": "HTAutoTone",
+        "name": "OBS",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/DQEXgBxa#oQp_tmsQmj7DBYPLhsfq0eRyfSGZVlwzJBQZeLz0jNo",
+        "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
         "enabled": true,
         "featured": false,
-        "note": "Dò Tone Tư Động"
+        "note": ""
+      },
+      {
+        "name": "LIVE RECORDER",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/GNN0WQpS#yGV7FsUTkeltrDqJRppR4mti6LALyqUTQymuz5LqNDk",
+        "enabled": true,
+        "featured": false,
+        "note": "Phần mềm ghi hình LIVE"
       }
     ]
   },
-  "revision": "1782449971021-b1e372"
+  "revision": "1783381224332-b7bfe7"
 }
