@@ -3,7 +3,7 @@
   "message": "",
   "banner": {
     "enabled": false,
-    "title": "",
+    "title": "Autotone",
     "text": "",
     "image": "",
     "link": ""
@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-06T23:40:24.330Z",
+  "updatedAt": "2026-07-07T02:54:25.234Z",
   "categories": [
     {
       "id": "cubase",
@@ -58,10 +58,17 @@
       "enabled": true
     },
     {
-      "id": "menu",
-      "label": "Các PM khác",
-      "icon": "🍑",
-      "note": "Cập nhật mới",
+      "id": "menu-v1",
+      "label": "Auto Tone",
+      "icon": "🎙",
+      "note": "Dò Tone Tự Động",
+      "enabled": true
+    },
+    {
+      "id": "menu-1783392722629",
+      "label": "Mạng Xã hội",
+      "icon": "🎥",
+      "note": "Media",
       "enabled": true
     }
   ],
@@ -251,7 +258,7 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
-        "enabled": false,
+        "enabled": true,
         "featured": false,
         "note": ""
       },
@@ -301,26 +308,28 @@
         "note": ""
       }
     ],
-    "menu": [
+    "menu-v1": [
       {
-        "name": "OBS",
+        "name": "HTAutoTone",
         "version": "Full",
         "size": "RAR",
-        "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+        "url": "https://mega.nz/file/DQEXgBxa#oQp_tmsQmj7DBYPLhsfq0eRyfSGZVlwzJBQZeLz0jNo",
         "enabled": true,
         "featured": false,
-        "note": ""
-      },
+        "note": "Dò Tone Tư Động"
+      }
+    ],
+    "menu-1783392722629": [
       {
-        "name": "LIVE RECORDER",
+        "name": "Live Recorder",
         "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/GNN0WQpS#yGV7FsUTkeltrDqJRppR4mti6LALyqUTQymuz5LqNDk",
+        "size": "exe",
+        "url": "https://mega.nz/file/KQEDRDaL#gk8deMST_7-YJzOPVJ_7p96whFUAf97R2_xgrZOZW7o",
         "enabled": true,
         "featured": false,
-        "note": "Phần mềm ghi hình LIVE"
+        "note": "Phần mềm quay video Live"
       }
     ]
   },
-  "revision": "1783381224332-b7bfe7"
+  "revision": "1783392865235-ce8747"
 }
