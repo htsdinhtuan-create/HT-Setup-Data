@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-07T13:55:06.489Z",
+  "updatedAt": "2026-07-13T15:46:28.250Z",
   "categories": [
     {
       "id": "cubase",
@@ -69,6 +69,13 @@
       "label": "Project",
       "icon": "🎙",
       "note": "PJ LIVE",
+      "enabled": true
+    },
+    {
+      "id": "menu-1783957411724",
+      "label": "AutoTone",
+      "icon": "🎙",
+      "note": "Phần mềm dò tone tự động",
       "enabled": true
     }
   ],
@@ -338,7 +345,18 @@
         "featured": false,
         "note": "Cho mic LCT 440"
       }
+    ],
+    "menu-1783957411724": [
+      {
+        "name": "AutoTone",
+        "version": "Full",
+        "size": "EXE",
+        "url": "https://mega.nz/file/qEVRkQjJ#kvxvrerEUEYfHtz4nBN2g1y2bScPq9hfGsPUjmlvBAM",
+        "enabled": true,
+        "featured": false,
+        "note": "PM dò tone tự động VIP"
+      }
     ]
   },
-  "revision": "1783432506491-5aceb4"
+  "revision": "1783957588253-136f76"
 }
