@@ -3,7 +3,7 @@
   "message": "",
   "banner": {
     "enabled": false,
-    "title": "",
+    "title": "Autotone",
     "text": "",
     "image": "",
     "link": ""
@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-13T15:46:28.250Z",
+  "updatedAt": "2026-07-16T10:02:34.034Z",
   "categories": [
     {
       "id": "cubase",
@@ -58,24 +58,17 @@
       "enabled": true
     },
     {
-      "id": "menu",
-      "label": "Các PM khác",
-      "icon": "🍑",
-      "note": "Cập nhật mới",
+      "id": "menu-v1",
+      "label": "Auto Tone",
+      "icon": "🎙",
+      "note": "Dò Tone Tự Động",
       "enabled": true
     },
     {
-      "id": "p",
-      "label": "Project",
-      "icon": "🎙",
-      "note": "PJ LIVE",
-      "enabled": true
-    },
-    {
-      "id": "menu-1783957411724",
-      "label": "AutoTone",
-      "icon": "🎙",
-      "note": "Phần mềm dò tone tự động",
+      "id": "menu-1783392722629",
+      "label": "Mạng Xã hội",
+      "icon": "🎥",
+      "note": "Media",
       "enabled": true
     }
   ],
@@ -265,7 +258,7 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
-        "enabled": false,
+        "enabled": true,
         "featured": false,
         "note": ""
       },
@@ -315,48 +308,37 @@
         "note": ""
       }
     ],
-    "menu": [
+    "menu-v1": [
       {
-        "name": "OBS",
+        "name": "HTAutoTone",
         "version": "Full",
         "size": "RAR",
-        "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+        "url": "https://mega.nz/file/DQEXgBxa#oQp_tmsQmj7DBYPLhsfq0eRyfSGZVlwzJBQZeLz0jNo",
         "enabled": true,
         "featured": false,
-        "note": ""
+        "note": "Dò Tone Tư Động"
       },
       {
-        "name": "LIVE RECORDER",
+        "name": "Key Pro Admin",
         "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/GNN0WQpS#yGV7FsUTkeltrDqJRppR4mti6LALyqUTQymuz5LqNDk",
+        "size": "exe",
+        "url": "https://mega.nz/file/PIlFzbKK#Q9gYoYYKp_BkxyAuTH05yWvFUvGMEaXv2dLgasYA3eE",
         "enabled": true,
         "featured": false,
-        "note": "Phần mềm ghi hình LIVE"
+        "note": "PM tạo key cho KH"
       }
     ],
-    "p": [
+    "menu-1783392722629": [
       {
-        "name": "LCT 440",
+        "name": "Live Recorder",
         "version": "Full",
-        "size": "CPR",
-        "url": "https://mega.nz/file/nNkRAR7b#SbGage-Vp1L2T_PgtK6R_CQDhxRo2NR2pH-1lpomd5o",
+        "size": "exe",
+        "url": "https://mega.nz/file/KQEDRDaL#gk8deMST_7-YJzOPVJ_7p96whFUAf97R2_xgrZOZW7o",
         "enabled": true,
         "featured": false,
-        "note": "Cho mic LCT 440"
-      }
-    ],
-    "menu-1783957411724": [
-      {
-        "name": "AutoTone",
-        "version": "Full",
-        "size": "EXE",
-        "url": "https://mega.nz/file/qEVRkQjJ#kvxvrerEUEYfHtz4nBN2g1y2bScPq9hfGsPUjmlvBAM",
-        "enabled": true,
-        "featured": false,
-        "note": "PM dò tone tự động VIP"
+        "note": "Phần mềm quay video Live"
       }
     ]
   },
-  "revision": "1783957588253-136f76"
+  "revision": "1784196154038-91d563"
 }
