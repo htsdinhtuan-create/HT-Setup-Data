@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-16T10:02:34.034Z",
+  "updatedAt": "2026-07-17T10:05:17.956Z",
   "categories": [
     {
       "id": "cubase",
@@ -313,7 +313,7 @@
         "name": "HTAutoTone",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/DQEXgBxa#oQp_tmsQmj7DBYPLhsfq0eRyfSGZVlwzJBQZeLz0jNo",
+        "url": "https://mega.nz/file/DUsFnAQB#PEVRbZXYQBgn8UiuBSWG4XxUC-weeMq58KEhTZkGa2s",
         "enabled": true,
         "featured": false,
         "note": "Dò Tone Tư Động"
@@ -340,5 +340,5 @@
       }
     ]
   },
-  "revision": "1784196154038-91d563"
+  "revision": "1784282717959-026c15"
 }
