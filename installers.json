@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-17T10:08:23.884Z",
+  "updatedAt": "2026-07-27T11:47:48.234Z",
   "categories": [
     {
       "id": "cubase",
@@ -137,6 +137,15 @@
         "version": "11.2.4 x64",
         "size": "RAR",
         "url": "https://mega.nz/file/SYsFkBpT#ADNLS7Jww4-1naUyOygKz9W0t6Rom6bBAp9zoOlhGys",
+        "enabled": true,
+        "featured": false,
+        "note": ""
+      },
+      {
+        "name": "HT Idol",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/KJEXUCZD#MEz2CSpcdz7SrkH4o4kdxDk_8ziqOyIPVQ8pLPICegk",
         "enabled": true,
         "featured": false,
         "note": ""
@@ -340,5 +349,5 @@
       }
     ]
   },
-  "revision": "1784282903884-2934f0"
+  "revision": "1785152868238-28d4d8"
 }
