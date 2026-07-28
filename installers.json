@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-28T09:48:36.350Z",
+  "updatedAt": "2026-07-28T09:49:23.573Z",
   "categories": [
     {
       "id": "cubase",
@@ -149,6 +149,15 @@
         "enabled": true,
         "featured": false,
         "note": "File Không cần cài đặt"
+      },
+      {
+        "name": "HT Idol Setup",
+        "version": "Full",
+        "size": "Exe",
+        "url": "https://mega.nz/file/vU0mQbYK#PctFcKYGP3wVFQKwTHFU5oRdeuo_fTvzDn_dzUYwUPo",
+        "enabled": true,
+        "featured": false,
+        "note": "Bản cài đặt"
       }
     ],
     "vst": [
@@ -349,5 +358,5 @@
       }
     ]
   },
-  "revision": "1785232116356-a35390"
+  "revision": "1785232163573-98619b"
 }
