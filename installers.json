@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-27T11:47:48.234Z",
+  "updatedAt": "2026-07-28T09:48:36.350Z",
   "categories": [
     {
       "id": "cubase",
@@ -148,7 +148,7 @@
         "url": "https://mega.nz/file/KJEXUCZD#MEz2CSpcdz7SrkH4o4kdxDk_8ziqOyIPVQ8pLPICegk",
         "enabled": true,
         "featured": false,
-        "note": ""
+        "note": "File Không cần cài đặt"
       }
     ],
     "vst": [
@@ -349,5 +349,5 @@
       }
     ]
   },
-  "revision": "1785152868238-28d4d8"
+  "revision": "1785232116356-a35390"
 }
