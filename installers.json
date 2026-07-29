@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-28T09:50:24.400Z",
+  "updatedAt": "2026-07-29T02:33:49.080Z",
   "categories": [
     {
       "id": "cubase",
@@ -344,6 +344,15 @@
         "enabled": true,
         "featured": false,
         "note": "PM tạo key cho KH"
+      },
+      {
+        "name": "File PEM",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/uIllgZCS#ZZqlbE_CiDFmPIjTbM0uD6KZBeSPYM3SLjKzkgTUi-c",
+        "enabled": true,
+        "featured": false,
+        "note": "File kích hoạt Admin PEM"
       }
     ],
     "menu-1783392722629": [
@@ -358,5 +367,5 @@
       }
     ]
   },
-  "revision": "1785232224400-b4389f"
+  "revision": "1785292429092-8e3411"
 }
