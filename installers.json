@@ -3,7 +3,7 @@
   "message": "",
   "banner": {
     "enabled": false,
-    "title": "",
+    "title": "Autotone",
     "text": "",
     "image": "",
     "link": ""
@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-29T13:40:26.446Z",
+  "updatedAt": "2026-07-30T08:00:31.586Z",
   "categories": [
     {
       "id": "cubase",
@@ -58,24 +58,17 @@
       "enabled": true
     },
     {
-      "id": "menu",
-      "label": "Các PM khác",
-      "icon": "🍑",
-      "note": "Cập nhật mới",
+      "id": "menu-v1",
+      "label": "Auto Tone",
+      "icon": "🎙",
+      "note": "Dò Tone Tự Động",
       "enabled": true
     },
     {
-      "id": "p",
-      "label": "Project",
-      "icon": "🎙",
-      "note": "PJ LIVE",
-      "enabled": true
-    },
-    {
-      "id": "menu-1783957411724",
-      "label": "AutoTone",
-      "icon": "🎙",
-      "note": "Phần mềm dò tone tự động",
+      "id": "menu-1783392722629",
+      "label": "Mạng Xã hội",
+      "icon": "🎥",
+      "note": "Media",
       "enabled": true
     }
   ],
@@ -147,6 +140,24 @@
         "enabled": true,
         "featured": false,
         "note": ""
+      },
+      {
+        "name": "HT Idol",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/KJEXUCZD#MEz2CSpcdz7SrkH4o4kdxDk_8ziqOyIPVQ8pLPICegk",
+        "enabled": true,
+        "featured": false,
+        "note": "File Không cần cài đặt"
+      },
+      {
+        "name": "HT Idol Setup",
+        "version": "Full",
+        "size": "Exe",
+        "url": "https://mega.nz/file/vU0mQbYK#PctFcKYGP3wVFQKwTHFU5oRdeuo_fTvzDn_dzUYwUPo",
+        "enabled": true,
+        "featured": false,
+        "note": "Bản cài đặt"
       }
     ],
     "vst": [
@@ -257,6 +268,15 @@
         "enabled": true,
         "featured": false,
         "note": ""
+      },
+      {
+        "name": "Numerical Audio",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/mVFFGabY#XEQSMvEYb0P0aQaufuFIBr1JpkPo_NDW739PA-WdXaM",
+        "enabled": true,
+        "featured": false,
+        "note": "Các tính năng chính: • 5 mô hình hồi âm độc đáo (Hall, Plate, Ensemble, Tremolo và VintageVerb). • Các phần Space và Color. • Điều khiển âm lượng và thời gian phân rã. • Độ trễ trước và khuếch tán có thể điều chỉnh. • Bộ lọc thông cao/thông thấp • Điều khiển điều biến • Phân phối âm thanh nổi và điều khiển âm thanh nổi hoàn toàn."
       }
     ],
     "tools": [
@@ -265,7 +285,7 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
-        "enabled": false,
+        "enabled": true,
         "featured": false,
         "note": ""
       },
@@ -315,57 +335,46 @@
         "note": ""
       }
     ],
-    "menu": [
+    "menu-v1": [
       {
-        "name": "OBS",
+        "name": "HTAutoTone",
         "version": "Full",
         "size": "RAR",
-        "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+        "url": "https://mega.nz/file/6ck0UYYQ#xjEo9lYXpL-jHCELb7Y6I1fQ2n4FNJlVnInOP9ib2ro",
         "enabled": true,
         "featured": false,
-        "note": ""
+        "note": "Dò Tone Tư Động"
       },
       {
-        "name": "LIVE RECORDER",
+        "name": "Key Pro Admin",
         "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/GNN0WQpS#yGV7FsUTkeltrDqJRppR4mti6LALyqUTQymuz5LqNDk",
+        "size": "exe",
+        "url": "https://mega.nz/file/PIlFzbKK#Q9gYoYYKp_BkxyAuTH05yWvFUvGMEaXv2dLgasYA3eE",
         "enabled": true,
         "featured": false,
-        "note": "Phần mềm ghi hình LIVE"
-      }
-    ],
-    "p": [
-      {
-        "name": "LCT 440",
-        "version": "Full",
-        "size": "CPR",
-        "url": "https://mega.nz/file/nNkRAR7b#SbGage-Vp1L2T_PgtK6R_CQDhxRo2NR2pH-1lpomd5o",
-        "enabled": true,
-        "featured": false,
-        "note": "Cho mic LCT 440"
-      }
-    ],
-    "menu-1783957411724": [
-      {
-        "name": "AutoTone",
-        "version": "Full",
-        "size": "EXE",
-        "url": "https://mega.nz/file/qEVRkQjJ#kvxvrerEUEYfHtz4nBN2g1y2bScPq9hfGsPUjmlvBAM",
-        "enabled": true,
-        "featured": false,
-        "note": "PM dò tone tự động VIP"
+        "note": "PM tạo key cho KH"
       },
       {
-        "name": "File PEM ZIP",
+        "name": "File PEM",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/3UcgwKja#X4tyNh63oEYWyzsLJLpa32EseogPSWcAq1sh_ThO2-k",
+        "url": "https://mega.nz/file/uIllgZCS#ZZqlbE_CiDFmPIjTbM0uD6KZBeSPYM3SLjKzkgTUi-c",
         "enabled": true,
         "featured": false,
-        "note": "File cho Admin kích hoạt"
+        "note": "File kích hoạt Admin PEM"
+      }
+    ],
+    "menu-1783392722629": [
+      {
+        "name": "Live Recorder",
+        "version": "Full",
+        "size": "exe",
+        "url": "https://mega.nz/file/KQEDRDaL#gk8deMST_7-YJzOPVJ_7p96whFUAf97R2_xgrZOZW7o",
+        "enabled": true,
+        "featured": false,
+        "note": "Phần mềm quay video Live"
       }
     ]
   },
-  "revision": "1785332426447-523d99"
+  "revision": "1785398431595-5363cb"
 }
