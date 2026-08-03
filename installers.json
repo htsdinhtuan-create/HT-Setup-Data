@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-07-30T08:00:31.586Z",
+  "updatedAt": "2026-08-03T08:18:00.479Z",
   "categories": [
     {
       "id": "cubase",
@@ -373,8 +373,17 @@
         "enabled": true,
         "featured": false,
         "note": "Phần mềm quay video Live"
+      },
+      {
+        "name": "Tool Tải Video",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/KAMUSQDQ#EUSjl2OTKWDuWyGScD3_4YvHGBX5aq3cViqQIyK3Fnc",
+        "enabled": true,
+        "featured": false,
+        "note": "Phần mềm tải video đa nền tảng"
       }
     ]
   },
-  "revision": "1785398431595-5363cb"
+  "revision": "1785745080492-e82977"
 }
