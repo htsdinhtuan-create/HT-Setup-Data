@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-08-21T10:07:30.171Z",
+  "updatedAt": "2026-08-24T09:14:38.433Z",
   "categories": [
     {
       "id": "cubase",
@@ -277,6 +277,15 @@
         "enabled": true,
         "featured": false,
         "note": "Các tính năng chính: • 5 mô hình hồi âm độc đáo (Hall, Plate, Ensemble, Tremolo và VintageVerb). • Các phần Space và Color. • Điều khiển âm lượng và thời gian phân rã. • Độ trễ trước và khuếch tán có thể điều chỉnh. • Bộ lọc thông cao/thông thấp • Điều khiển điều biến • Phân phối âm thanh nổi và điều khiển âm thanh nổi hoàn toàn."
+      },
+      {
+        "name": "Luftikus",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/GNdTwbBY#W6MQowj2Uh4qJ0J5D8JYYGOA7iQI8-b04deXdFNUaNU",
+        "enabled": true,
+        "featured": false,
+        "note": "Plugin EQ của lkjb"
       }
     ],
     "tools": [
@@ -385,5 +394,5 @@
       }
     ]
   },
-  "revision": "1787306850182-dd2016"
+  "revision": "1787562878441-4ea800"
 }
