@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-08-24T09:14:38.433Z",
+  "updatedAt": "2026-08-24T10:02:26.647Z",
   "categories": [
     {
       "id": "cubase",
@@ -391,8 +391,17 @@
         "enabled": true,
         "featured": false,
         "note": "Phần mềm tải video đa nền tảng"
+      },
+      {
+        "name": "Key Admin Tải VIDEO",
+        "version": "Full",
+        "size": "RAR",
+        "url": "https://mega.nz/file/XdtX3ApA#KX_sD4ex7eTerPknyOZcUp-qcwvDUIdiIhhelTJ0vXk",
+        "enabled": true,
+        "featured": false,
+        "note": "key admin"
       }
     ]
   },
-  "revision": "1787562878441-4ea800"
+  "revision": "1787565746658-ba8f63"
 }
