@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-08-25T02:03:49.200Z",
+  "updatedAt": "2026-08-26T11:51:31.653Z",
   "categories": [
     {
       "id": "cubase",
@@ -386,8 +386,8 @@
       {
         "name": "Tool Tải Video",
         "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/LUlFBSgb#_9510slDa_WqofPb8_ZyndchrfYbbEkFS-QtVsGWYp8",
+        "size": "exe",
+        "url": "https://mega.nz/file/qVFXjYAI#gasDNbFm0uwo6AzsnmxAmbcuj_5D0SIZKnZJsAEs6zA",
         "enabled": true,
         "featured": false,
         "note": "Phần mềm tải video đa nền tảng"
@@ -403,5 +403,5 @@
       }
     ]
   },
-  "revision": "1787623429210-4225c3"
+  "revision": "1787745091658-9000b1"
 }
