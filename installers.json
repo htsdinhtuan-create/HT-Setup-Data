@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-08-30T07:24:59.797Z",
+  "updatedAt": "2026-08-30T10:37:44.156Z",
   "categories": [
     {
       "id": "cubase",
@@ -338,7 +338,7 @@
         "name": "HT Media",
         "version": "Full",
         "size": "EXE",
-        "url": "https://mega.nz/file/nUMBwZpD#uHrjc4A1mbmCgrNPry4mcZ0TCMAmm9O6VqDP8xT2bG8",
+        "url": "https://mega.nz/file/WB9wgZBT#zBsCHQ9snhPjoeh9r99Kx5aYFBOtLiW3Hll7vhf4c3M",
         "enabled": true,
         "featured": false,
         "note": "Phần mềm tải,dịch,sub đa nền tảng"
@@ -376,5 +376,5 @@
       }
     ]
   },
-  "revision": "1788074699799-82c500"
+  "revision": "1788086264158-b2d6a2"
 }
