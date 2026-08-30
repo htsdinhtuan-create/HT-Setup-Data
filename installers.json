@@ -3,7 +3,7 @@
   "message": "",
   "banner": {
     "enabled": false,
-    "title": "Autotone",
+    "title": "",
     "text": "",
     "image": "",
     "link": ""
@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-08-29T08:43:19.423Z",
+  "updatedAt": "2026-08-30T07:24:59.797Z",
   "categories": [
     {
       "id": "cubase",
@@ -58,17 +58,24 @@
       "enabled": true
     },
     {
-      "id": "menu-v1",
-      "label": "Auto Tone",
-      "icon": "🎙",
-      "note": "Dò Tone Tự Động",
+      "id": "menu",
+      "label": "Các PM khác",
+      "icon": "🍑",
+      "note": "Cập nhật mới",
       "enabled": true
     },
     {
-      "id": "menu-1783392722629",
-      "label": "Mạng Xã hội",
-      "icon": "🎥",
-      "note": "Media",
+      "id": "p",
+      "label": "Project",
+      "icon": "🎙",
+      "note": "PJ LIVE",
+      "enabled": true
+    },
+    {
+      "id": "menu-1783957411724",
+      "label": "AutoTone",
+      "icon": "🎙",
+      "note": "Phần mềm dò tone tự động",
       "enabled": true
     }
   ],
@@ -140,24 +147,6 @@
         "enabled": true,
         "featured": false,
         "note": ""
-      },
-      {
-        "name": "HT Idol",
-        "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/KJEXUCZD#MEz2CSpcdz7SrkH4o4kdxDk_8ziqOyIPVQ8pLPICegk",
-        "enabled": true,
-        "featured": false,
-        "note": "File Không cần cài đặt"
-      },
-      {
-        "name": "HT Idol Setup",
-        "version": "Full",
-        "size": "Exe",
-        "url": "https://mega.nz/file/vU0mQbYK#PctFcKYGP3wVFQKwTHFU5oRdeuo_fTvzDn_dzUYwUPo",
-        "enabled": true,
-        "featured": false,
-        "note": "Bản cài đặt"
       }
     ],
     "vst": [
@@ -268,24 +257,6 @@
         "enabled": true,
         "featured": false,
         "note": ""
-      },
-      {
-        "name": "Numerical Audio",
-        "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/mVFFGabY#XEQSMvEYb0P0aQaufuFIBr1JpkPo_NDW739PA-WdXaM",
-        "enabled": true,
-        "featured": false,
-        "note": "Các tính năng chính: • 5 mô hình hồi âm độc đáo (Hall, Plate, Ensemble, Tremolo và VintageVerb). • Các phần Space và Color. • Điều khiển âm lượng và thời gian phân rã. • Độ trễ trước và khuếch tán có thể điều chỉnh. • Bộ lọc thông cao/thông thấp • Điều khiển điều biến • Phân phối âm thanh nổi và điều khiển âm thanh nổi hoàn toàn."
-      },
-      {
-        "name": "Luftikus",
-        "version": "Full",
-        "size": "RAR",
-        "url": "https://mega.nz/file/GNdTwbBY#W6MQowj2Uh4qJ0J5D8JYYGOA7iQI8-b04deXdFNUaNU",
-        "enabled": true,
-        "featured": false,
-        "note": "Plugin EQ của lkjb"
       }
     ],
     "tools": [
@@ -294,7 +265,7 @@
         "version": "Full",
         "size": "CPR",
         "url": "https://mega.nz/file/bM81QZrZ#NzD1oMt7boHKOwYCdG2uhSnaFT66WXfMCSSjR6RQ6p0",
-        "enabled": true,
+        "enabled": false,
         "featured": false,
         "note": ""
       },
@@ -344,64 +315,66 @@
         "note": ""
       }
     ],
-    "menu-v1": [
+    "menu": [
       {
-        "name": "HTAutoTone",
+        "name": "OBS",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/6ck0UYYQ#xjEo9lYXpL-jHCELb7Y6I1fQ2n4FNJlVnInOP9ib2ro",
+        "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
         "enabled": true,
         "featured": false,
-        "note": "Dò Tone Tư Động"
+        "note": ""
       },
       {
-        "name": "Key Pro Admin",
-        "version": "Full",
-        "size": "exe",
-        "url": "https://mega.nz/file/PIlFzbKK#Q9gYoYYKp_BkxyAuTH05yWvFUvGMEaXv2dLgasYA3eE",
-        "enabled": true,
-        "featured": false,
-        "note": "PM tạo key cho KH"
-      },
-      {
-        "name": "File PEM",
+        "name": "LIVE RECORDER",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/uIllgZCS#ZZqlbE_CiDFmPIjTbM0uD6KZBeSPYM3SLjKzkgTUi-c",
+        "url": "https://mega.nz/file/GNN0WQpS#yGV7FsUTkeltrDqJRppR4mti6LALyqUTQymuz5LqNDk",
         "enabled": true,
         "featured": false,
-        "note": "File kích hoạt Admin PEM"
+        "note": "Phần mềm ghi hình LIVE"
+      },
+      {
+        "name": "HT Media",
+        "version": "Full",
+        "size": "EXE",
+        "url": "https://mega.nz/file/nUMBwZpD#uHrjc4A1mbmCgrNPry4mcZ0TCMAmm9O6VqDP8xT2bG8",
+        "enabled": true,
+        "featured": false,
+        "note": "Phần mềm tải,dịch,sub đa nền tảng"
       }
     ],
-    "menu-1783392722629": [
+    "p": [
       {
-        "name": "Live Recorder",
+        "name": "LCT 440",
         "version": "Full",
-        "size": "exe",
-        "url": "https://mega.nz/file/KQEDRDaL#gk8deMST_7-YJzOPVJ_7p96whFUAf97R2_xgrZOZW7o",
+        "size": "CPR",
+        "url": "https://mega.nz/file/nNkRAR7b#SbGage-Vp1L2T_PgtK6R_CQDhxRo2NR2pH-1lpomd5o",
         "enabled": true,
         "featured": false,
-        "note": "Phần mềm quay video Live"
-      },
+        "note": "Cho mic LCT 440"
+      }
+    ],
+    "menu-1783957411724": [
       {
-        "name": "Tool Tải Video",
+        "name": "AutoTone",
         "version": "Full",
-        "size": "exe",
-        "url": "https://mega.nz/file/3J0igR4b#d7TK-YgGnDdtptYMMLSn08zt0Z9DtyaNp5nntcgw3Uc",
+        "size": "EXE",
+        "url": "https://mega.nz/file/qEVRkQjJ#kvxvrerEUEYfHtz4nBN2g1y2bScPq9hfGsPUjmlvBAM",
         "enabled": true,
         "featured": false,
-        "note": "Phần mềm tải video đa nền tảng"
+        "note": "PM dò tone tự động VIP"
       },
       {
-        "name": "Key Admin Tải VIDEO",
+        "name": "File PEM ZIP",
         "version": "Full",
         "size": "RAR",
-        "url": "https://mega.nz/file/XdtX3ApA#KX_sD4ex7eTerPknyOZcUp-qcwvDUIdiIhhelTJ0vXk",
+        "url": "https://mega.nz/file/3UcgwKja#X4tyNh63oEYWyzsLJLpa32EseogPSWcAq1sh_ThO2-k",
         "enabled": true,
         "featured": false,
-        "note": "key admin"
+        "note": "File cho Admin kích hoạt"
       }
     ]
   },
-  "revision": "1787992999432-46e4be"
+  "revision": "1788074699799-82c500"
 }
