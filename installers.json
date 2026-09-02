@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-08-30T10:37:44.156Z",
+  "updatedAt": "2026-09-02T06:09:45.322Z",
   "categories": [
     {
       "id": "cubase",
@@ -342,6 +342,24 @@
         "enabled": true,
         "featured": false,
         "note": "Phần mềm tải,dịch,sub đa nền tảng"
+      },
+      {
+        "name": "PM Reup V1",
+        "version": "Full",
+        "size": "exe",
+        "url": "https://mega.nz/file/qUU0GLob#TFKrDWdZfi2VSaH0isn-_8cotUnEPiKjhEpX0Cv45jM",
+        "enabled": true,
+        "featured": false,
+        "note": ""
+      },
+      {
+        "name": "PM Reup V2",
+        "version": "Full",
+        "size": "EXE",
+        "url": "https://mega.nz/file/nNMhSTBZ#u4Sr6BO_7Syo-wN8gUAdaBWRl11UrKhRgLGcDuauPEg",
+        "enabled": true,
+        "featured": false,
+        "note": "Phần mềm reup video"
       }
     ],
     "p": [
@@ -376,5 +394,5 @@
       }
     ]
   },
-  "revision": "1788086264158-b2d6a2"
+  "revision": "1788329385324-0c10bb"
 }
