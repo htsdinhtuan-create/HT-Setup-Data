@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "message": "",
+  "message": "Đã có Menu mới HT DAW",
   "banner": {
     "enabled": false,
     "title": "",
@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-09-02T06:09:45.322Z",
+  "updatedAt": "2026-09-06T14:40:37.165Z",
   "categories": [
     {
       "id": "cubase",
@@ -76,6 +76,13 @@
       "label": "AutoTone",
       "icon": "🎙",
       "note": "Phần mềm dò tone tự động",
+      "enabled": true
+    },
+    {
+      "id": "menu-1788705485688",
+      "label": "HT DAW",
+      "icon": "🎆",
+      "note": "PM Hát LIVE",
       "enabled": true
     }
   ],
@@ -392,7 +399,27 @@
         "featured": false,
         "note": "File cho Admin kích hoạt"
       }
+    ],
+    "menu-1788705485688": [
+      {
+        "name": "HT DAW",
+        "version": "Full",
+        "size": "EXE",
+        "url": "https://mega.nz/file/GEl3VYDQ#pEthM6i6lsjreRrM_NNrwVDQISDI5TqD_TkUK3p027A",
+        "enabled": true,
+        "featured": false,
+        "note": ""
+      },
+      {
+        "name": "Admin KEY DAW",
+        "version": "Full",
+        "size": "EXE",
+        "url": "https://mega.nz/file/SMlUjbDK#UIuJT3dARfqeEK76fxSUIt2U-zPhrD__899-r9cs_TU",
+        "enabled": true,
+        "featured": false,
+        "note": ""
+      }
     ]
   },
-  "revision": "1788329385324-0c10bb"
+  "revision": "1788705637168-a6a18e"
 }
