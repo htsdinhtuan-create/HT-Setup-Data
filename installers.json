@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-09-06T14:40:37.165Z",
+  "updatedAt": "2026-09-07T14:04:11.389Z",
   "categories": [
     {
       "id": "cubase",
@@ -404,8 +404,8 @@
       {
         "name": "HT DAW",
         "version": "Full",
-        "size": "EXE",
-        "url": "https://mega.nz/file/GEl3VYDQ#pEthM6i6lsjreRrM_NNrwVDQISDI5TqD_TkUK3p027A",
+        "size": "ZIP",
+        "url": "https://mega.nz/file/jBkmVKqQ#gbwar_pOXckkfIj6EResEbVLatP0zny364v7Uh7Ugm0",
         "enabled": true,
         "featured": false,
         "note": ""
@@ -414,12 +414,12 @@
         "name": "Admin KEY DAW",
         "version": "Full",
         "size": "EXE",
-        "url": "https://mega.nz/file/SMlUjbDK#UIuJT3dARfqeEK76fxSUIt2U-zPhrD__899-r9cs_TU",
+        "url": "https://mega.nz/file/bAsg3A7D#2r-URafsHb9l5yawi7xsD3F3xFj6w5jPFajESH2mtV4",
         "enabled": true,
         "featured": false,
         "note": ""
       }
     ]
   },
-  "revision": "1788705637168-a6a18e"
+  "revision": "1788789851392-d95438"
 }
