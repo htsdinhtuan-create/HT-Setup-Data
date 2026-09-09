@@ -20,7 +20,7 @@
     "username": "",
     "password": ""
   },
-  "updatedAt": "2026-09-07T14:04:11.389Z",
+  "updatedAt": "2026-09-09T00:52:35.298Z",
   "categories": [
     {
       "id": "cubase",
@@ -405,7 +405,7 @@
         "name": "HT DAW",
         "version": "Full",
         "size": "ZIP",
-        "url": "https://mega.nz/file/jBkmVKqQ#gbwar_pOXckkfIj6EResEbVLatP0zny364v7Uh7Ugm0",
+        "url": "https://mega.nz/file/WFdBSJLC#F5OJA0jwaFjhfccRuCWAlmwKaGFQ3MofPjYWztyO0f0",
         "enabled": true,
         "featured": false,
         "note": ""
@@ -421,5 +421,5 @@
       }
     ]
   },
-  "revision": "1788789851392-d95438"
+  "revision": "1788915155300-c963af"
 }
